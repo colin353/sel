@@ -1,0 +1,8 @@
+[package]
+name = "sel"
+version = "0.1.0"
+authors = ["Colin Merkel <colin353@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+"dialoguer" = "0.3.0"
