@@ -20,7 +20,7 @@ fn main() {
                 .items(&selections[..])
                 .interact()
                 .unwrap()
-    }
+    };
 
     println!("{}", selections[selection]);
 }
